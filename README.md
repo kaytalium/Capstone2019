@@ -26,13 +26,13 @@ In order to run the code you must have the following installed:
 
 - Android Studio (Watch this video to get started )
 
-[![Android Studio Setup](android-studio-video1-cover.jpg)](https://www.youtube.com/watch?v=1-k5KMj8IJQ)
+[![Android Studio Setup](img/android-studio-video1-cover.jpg)](https://www.youtube.com/watch?v=1-k5KMj8IJQ)
 
 Once the program is installed and configured successfully you may open the `transico_mobile project` with android studio. in order to view the code you must create a virtual phone or as google calls it a emulator. 
 
 The video below will show how to perform the setup. 
 
-[![Emulator Setup](android-studio-video2-cover.jpg)](https://www.youtube.com/watch?v=5BdqfvRS_TY)
+[![Emulator Setup](img/android-studio-video2-cover.jpg)](https://www.youtube.com/watch?v=5BdqfvRS_TY)
 
 Once the emulator is up the application will launch. 
 
