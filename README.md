@@ -52,21 +52,21 @@ Now that we have our tools install and configured
 you can open bash by right-click on the project folder and click from the popup `Git Bash Here` this will open what look like a command prompt window. 
 
 ```console
-    heslop-capstone MINGW64 ~/Documents/group1-project/transico_web
+    heslop-capstone MINGW64 ~/Documents/Capstone-Group1-Codezero/transico_web
     $ 
 ```
 
 from here you will type code . and this will open visual studio code application and load up the project. 
 
 ```console
-    heslop-capstone MINGW64 ~/Documents/group1-project/transico_web
+    heslop-capstone MINGW64 ~/Documents/Capstone-Group1-Codezero/transico_web
     $ code .
 ```
 
 Once vsCode is up and ready you can come back to the terminal to launch the application. 
 
 ```console
-    heslop-capstone MINGW64 ~/Documents/group1-project/transico_web
+    heslop-capstone MINGW64 ~/Documents/Capstone-Group1-Codezero/transico_web
     $ ng serve --open
 ```
 
